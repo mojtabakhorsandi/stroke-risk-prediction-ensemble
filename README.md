@@ -86,7 +86,7 @@ Emphasis is placed on **recall of the stroke class** to minimize false negatives
 ## 👨‍💻 Author
 **Mojtaba Khorsandi Ebrahimi**  
 M.Sc. in Bioelectric Biomedical Engineering  
-University of Genoa  
+  
 
 ---
 
